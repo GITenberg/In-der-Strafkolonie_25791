@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1735
     wikipedia: http://en.wikipedia.org/wiki/Franz_Kafka
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25791#In-der-Strafkolonie
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2008-06-14'
 gutenberg_type: Text
