@@ -1,0 +1,30 @@
+_repo: In-der-Strafkolonie_25791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kafka, Franz
+    alias: Kafka, F. (Franz)
+    birthdate: 1883
+    deathdate: 1924
+    gutenberg_agent_id: '1735'
+    url: http://www.gutenberg.org/2009/agents/1735
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Kafka
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2008-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25791'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Torture -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Short stories'
+title: In der Strafkolonie
+url: http://www.gutenberg.org/ebooks/25791
